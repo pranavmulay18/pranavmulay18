@@ -12,14 +12,15 @@
 </div>
 <h2 align ="center">⚡️Stats⚡️</h2>
 <!-- GitHub Stats -->
-<a href="http://www.github.com/SammyBoiii07">
-    <img src="https://github-readme-stats.vercel.app/api?username=SammyBoiii07&show_icons=true&theme=dark&bg_color=1c1917&title_color=0891b2&text_color=ffffff&icon_color=0891b2&count_private=true&border_radius=20" alt="GitHub Stats" />
-</a>
+<div align=center>
 
-<!-- GitHub Contributions Graph -->
-<a href="http://www.github.com/SammyBoiii07">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SammyBoiii07&theme=dark&background=1c1917&stroke=0891b2&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=20" alt="GitHub Streak Stats" />
-</a>
+<p align="center">
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=pranavmulay18&count_private=true&show_icons=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&border_radius=20&hide_border=true"  width="48%"/>
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=pranavmulay18&count_private=true&border_radius=20&ring=00bfbf&stroke=c9d1d9&background=0d1117&fire=00bfbf&currStreakNum=00bfbf&sideNums=00bfbf&sideNums=00bfbf&datesside=00bfbf&Labelscurr=00bfbf&currStreakLabel=00bfbf&sideLabels=00bfbf&dates=c9d1d9&border=c9d1d9&hide_border=true"  width="48%"/>
+</p>
+  <p align="center">
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=pranavmulay18&hide=HTML&langs_count=8&layout=compact&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&border_radius=15&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true"width="70%"/> 
+</p>
 
 
 <div align="center">
