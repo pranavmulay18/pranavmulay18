@@ -3,13 +3,40 @@
 
 🚀 Hey GitHub Enthusiasts ! Here is Pranav From Planet Earth 🌏 How Are You Mate !
 
-## Languages & Tools
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,python,typescript,docker,kubernetes,graphql" />
-    <img src="https://skillicons.dev/icons?i=java,aws,arch,arduino,bash,blender,cpp,gcp,ubuntu " />
-    <br>
-</div>
+### Working On ⚡️
+- Tweaking This [Readme file 🔎](https://github.com/SaikrishnShelar/SaikrishnShelar.git) For Optimal Engagement
+
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> My Tech Stack <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></h2>
+
+Here Are My Few Technical Skills, Libraries I know, Tools I use, and My Socials. Make Sure you Follow me on Socials So we can Connect and Build a Better Network 🤝💭
+
+<h3>Languages 💡</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js" />
+</a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/kotlin-dark.svg" width="50"></a>
+
+### OS 🖥
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
+</a>
+
+### Connect With Me 📪
+<a href="https://www.linkedin.com/in/saikrishn-shelar-168787294/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://twitter.com">
+  <img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+<a href="https://stackoverflow.com">
+  <img src="https://skillicons.dev/icons?i=stackoverflow" />
+</a>
+<a href="https://www.instagram.com">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+<a href="mailto:">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 <h2 align ="center">⚡️Stats⚡️</h2>
 <!-- GitHub Stats -->
 <div align=center>
